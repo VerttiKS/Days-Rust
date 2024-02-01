@@ -3,7 +3,7 @@ A Unix-style command line program that can display, insert and to remove events 
 
 Created in May of 2023.
 
-## Used creates
+## Used crates
 * https://crates.io/crates/chrono
 * https://crates.io/crates/clap
 * https://crates.io/crates/csv
